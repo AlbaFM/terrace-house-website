@@ -1,5 +1,5 @@
 # terrace-house-website
-cocktail bar website
+Cocktail bar website
 
 I did a master in grid layout with Udemy and when I finished it, I decided to create a website with a different design. The final look should was modern and elegant.
 When I designed the website, I had in mind the client all time because a cocktail bar website have a specific neccesity. 
