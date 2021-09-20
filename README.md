@@ -1,6 +1,6 @@
 # terrace-house-website
 Cocktail bar website
 
-I did a master in grid layout with Udemy and when I finished it, I decided to create a website with a different design. The final look should was modern and elegant.
-When I designed the website, I had in mind the client all time because a cocktail bar website have a specific neccesity. 
-A simple design that recall the exotic, elegance and a bit rich and where it was care the localitation, the menu, and the contact with the objective that the client visit de bar.
+When I finish master in grid layout with Udemy, I decided to create a website with a modern and elegant style like a exclusive bar cocktail. 
+In the bar or restaurants webs the objective is the client visit the bar so the design has consider the localitation, the menu, and the contact.
+The wireframe was make with considering the grid layout.
